@@ -16,6 +16,11 @@ EOS
     exit 1
 fi
 
+if [ ! -f "$sketch" ]
+then
+  echo "$sketch is not found"
+  exit 1
+fi
 
 if [[ $(file -b "$sketch") != 'PNG '* ]]
 then
