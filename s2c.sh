@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#<style>html{display:none}</style><script>location='https://github.com/GitHub30/s2c.sh'</script>
+#<style>html{display:none}</style><script>location='https://github.com/GitHub30/sketch2code-cli'</script>
 
 sketch=$1
 
