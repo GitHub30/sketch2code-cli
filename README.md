@@ -1,4 +1,5 @@
 # sketch2code-cli
+[![Build Status](https://travis-ci.org/GitHub30/sketch2code-cli.svg?branch=master)](https://travis-ci.org/GitHub30/sketch2code-cli)
 
 # Usage
 ```bash
